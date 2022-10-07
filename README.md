@@ -1,3 +1,7 @@
+# Note
+
+No CSS Frameworks used in this project. Due to lack of time, some features might not be available.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
