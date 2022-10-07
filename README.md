@@ -2,6 +2,11 @@
 
 No CSS Frameworks used in this project. Due to lack of time, some features might not be available.
 
+## Sample Output
+
+![image](https://user-images.githubusercontent.com/59276477/194468454-8cfaf83e-b84a-49a8-8d2d-2727ea9901a1.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
